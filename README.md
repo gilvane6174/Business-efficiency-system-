@@ -17,9 +17,6 @@
 このプロジェクトは [MIT License](LICENSE) の下で提供されています。
 Copyright (c) 2025 Yoshioka Yutaka
 
-## スクリーンショット
-（GitHubにアップ後、リポジトリの Issues または README に画像を追加してください）
-
 ## 作者
 吉岡有隆 (Yoshioka Yutaka)
 初版: 2025-09-14
