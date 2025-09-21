@@ -53,3 +53,60 @@ Copyright (c) 2025 Yoshioka Yutaka
 ## 作者
 吉岡有隆 (Yoshioka Yutaka)
 初版: 2025-09-14
+
+# Business Efficiency System
+
+## Latest Version Download
+** [Download BusinessEfficiencySystem_YoshiokaYutaka_2025.xlsm](docs/業務効率化システム_吉岡有隆_2025.xlsm) **  
+
+---
+
+# Business Efficiency System
+
+An **Excel Dashboard & VBA Automation Tool** designed for freelancers, remote workers, welfare professionals, and office staff.  
+It allows integrated management of monthly salaries, project-based unit sales, attendance, workload, health records, task management, and KPIs.
+
+## Screenshots
+
+### Dashboard View
+![Dashboard](docs/img/業務効率化システムスクリーンショット_01.jpg)
+
+### Workload Management View
+![Workload Management](docs/img/業務効率化システムスクリーンショット_02.jpg)
+
+## Key Features
+- Instantly grasp current month’s sales, workload, and resource status from the dashboard  
+- Practical VBA macros such as “Jump to Today’s Sheet” and “Clear Manual Inputs”  
+- Monthly sheet structure in `yyyy_mm` format for long-term operation  
+- Input fields and visualization graphs for health and barometric pressure data  
+
+## Explanation Article (note)
+
+A detailed explanation covering the background, screen descriptions, and usage flow of this system is available on note:  
+
+[Excel Business Efficiency System Explanation (note)](https://note.com/yoshiokayutaka/n/n6f35a4d50945)
+
+The article introduces:
+
+- Why this system was created  
+- Overall dashboard structure and screenshots  
+- How to set up health × productivity visualization graphs  
+- Mechanism for auto-reflection across sheets with yellow-cell input  
+- Download link from GitHub  
+
+> **Recommended Usage Flow**  
+> First, get an overview from the article → Download the repository file →  
+> Open in Excel and follow the manual to start using it the same day.  
+
+## System Requirements
+- Microsoft Excel 2019 or later (Windows/Mac)  
+- Enable VBA macros to use this system  
+
+## License
+This project is provided under the [MIT License](LICENSE).  
+Copyright (c) 2025 Yoshioka Yutaka  
+
+## Author
+Yoshioka Yutaka  
+First Edition: 2025-09-14
+
