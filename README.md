@@ -16,24 +16,6 @@
 - `yyyy_mm` 形式の月次シート構造で長期運用を想定
 - 体調・気圧データの入力欄と可視化グラフ
 
-## 解説記事（note）
-
-このシステムの背景・画面説明・使い方の流れを以下のnote記事に詳しくまとめています。  
-
-[Excel業務効率化システム解説記事（note）](https://note.com/yoshiokayutaka/n/n6f35a4d50945)
-
-記事では以下を紹介しています：
-
-- このシステムが出来た理由
-- ダッシュボードの全体構成とスクリーンショット
-- 体調×作業効率可視化グラフの設置方法
-- 黄セル入力で他シートへ自動反映する仕組み
-- GitHubからのダウンロード先
-
-> **おすすめの見方**  
-> まずはこの記事で全体像を把握 → リポジトリのファイルをダウンロード →  
-> Excelで開いてマニュアル通りに設定すれば、即日使い始められます。
-
 ## 動作環境
 - Microsoft Excel 2019 以降 (Windows/Mac)
 - VBAマクロを有効化してご利用ください。
@@ -63,24 +45,6 @@ It allows integrated management of monthly salaries, project-based unit sales, a
 - Practical VBA macros such as “Jump to Today’s Sheet” and “Clear Manual Inputs”  
 - Monthly sheet structure in `yyyy_mm` format for long-term operation  
 - Input fields and visualization graphs for health and barometric pressure data  
-
-## Explanation Article (note)
-
-A detailed explanation covering the background, screen descriptions, and usage flow of this system is available on note:  
-
-[Excel Business Efficiency System Explanation (note)](https://note.com/yoshiokayutaka/n/n6f35a4d50945)
-
-The article introduces:
-
-- Why this system was created  
-- Overall dashboard structure and screenshots  
-- How to set up health × productivity visualization graphs  
-- Mechanism for auto-reflection across sheets with yellow-cell input  
-- Download link from GitHub  
-
-> **Recommended Usage Flow**  
-> First, get an overview from the article → Download the repository file →  
-> Open in Excel and follow the manual to start using it the same day.  
 
 ## System Requirements
 - Microsoft Excel 2019 or later (Windows/Mac)  
